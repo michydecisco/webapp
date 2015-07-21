@@ -1,4 +1,4 @@
-Wocker Fundamentals WebApp
+WDocker Fundamentals WebApp
 ==========================
 
 The Docker Fundamentals repository contains the example Hello World Python WebApp
